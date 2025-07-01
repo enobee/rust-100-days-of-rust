@@ -1,0 +1,13 @@
+# Ignore compiled files
+/target/
+
+# Ignore build artifacts
+**/*.rs.bk
+
+# Ignore IDE/editor settings
+.idea/
+.vscode/
+*.swp
+
+# Ignore Cargo lock files for libraries (optional)
+/day*/Cargo.lock
