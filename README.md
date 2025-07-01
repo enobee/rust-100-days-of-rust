@@ -5,7 +5,7 @@ Each day, I build a small project or solve a Rust problem and document it.
 
 ## 📁 Structure
 
-Each folder represents a day's work:
+Each folder represents a day's work.
 
 
 ## Goals
