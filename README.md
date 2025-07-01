@@ -7,9 +7,6 @@ Each day, I build a small project or solve a Rust problem and document it.
 
 Each folder represents a day's work:
 
-/day1/ - Convert Age to Days
-/day2/ - [Next challenge]
-...
 
 ## Goals
 
