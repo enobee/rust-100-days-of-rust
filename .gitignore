@@ -1,5 +1,5 @@
 # Ignore compiled files
-/target/
+/day*/target
 
 # Ignore build artifacts
 **/*.rs.bk
